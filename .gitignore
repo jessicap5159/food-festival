@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-.DS_Store
-=======
 .DS_Store
 node_modules
->>>>>>> feature/improve-load-time
